@@ -15,7 +15,7 @@
             switch (favoriteSubject.ToLower())
             {
                 case "math":
-                    Console.WriteLine("Math is not my favorite math.");
+                    Console.WriteLine("Math is not my favorite subject.");
                     break;
                 case "science":
                     Console.WriteLine("I enjoyed science, especially technology.");
@@ -27,7 +27,7 @@
                     Console.WriteLine("I enjoy history as an adult, but really didn't like it in school.");
                     break;
                 case "geography":
-                    Console.WriteLine("I enjoy learing about the world.");
+                    Console.WriteLine("I enjoy learning about the world.");
                     break;
                 default:
                     Console.WriteLine("Interesting choice. What do you like about it?");
